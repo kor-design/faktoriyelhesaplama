@@ -1,0 +1,6 @@
+C:\Users\Windows10\Documents\GitHub\faktoriyelhesaplama\faktoriyel\faktoriyel\bin\Debug\faktoriyel.exe.config
+C:\Users\Windows10\Documents\GitHub\faktoriyelhesaplama\faktoriyel\faktoriyel\bin\Debug\faktoriyel.exe
+C:\Users\Windows10\Documents\GitHub\faktoriyelhesaplama\faktoriyel\faktoriyel\bin\Debug\faktoriyel.pdb
+C:\Users\Windows10\Documents\GitHub\faktoriyelhesaplama\faktoriyel\faktoriyel\obj\Debug\faktoriyel.csprojAssemblyReference.cache
+C:\Users\Windows10\Documents\GitHub\faktoriyelhesaplama\faktoriyel\faktoriyel\obj\Debug\faktoriyel.exe
+C:\Users\Windows10\Documents\GitHub\faktoriyelhesaplama\faktoriyel\faktoriyel\obj\Debug\faktoriyel.pdb
