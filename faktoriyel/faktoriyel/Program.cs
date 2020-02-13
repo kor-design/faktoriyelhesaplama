@@ -16,15 +16,19 @@ namespace faktoriyel
                 var fakt_sayi = int.Parse(Console.ReadLine());
                 var baslangic = 1;
                 var ilk_deger = fakt_sayi;
-                while (fakt_sayi > 0)
+                if (fakt_sayi > 0)
                 {
-                    if (fakt_sayi > 0)
+                    while (fakt_sayi > 0)
                     {
                         baslangic *= fakt_sayi;
                         fakt_sayi--;
                     }
+                    Console.WriteLine("{0} sayısının faktoriyeli = {1}", ilk_deger, baslangic);
                 }
-                Console.WriteLine("{0} sayısının faktoriyeli = {1}", ilk_deger, baslangic);
+                else
+                {
+                    Console.WriteLine("Lütfen sıfırdan büyük bir sayı giriniz");
+                }
             }
         }
 
